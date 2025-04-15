@@ -20,7 +20,7 @@
 Enhancing intelligent decision-making capabilities of LLM-based agents through reinforcement learning in complex game environments. Pioneering the integration of LLM+RL+Agent for strategic reasoning and adaptive behavior.
 
 ### 🌱 Learning Journey
-
+Exploring advanced decision-making frameworks where agents learn, reason, and evolve through strategic interactions. Pushing the boundaries of what AI agents can achieve in complex game-theoretic scenarios.
 
 ### 👯 Collaboration Interests
 Seeking collaborations on cutting-edge research in intelligent decision-making systems. Particularly interested in projects combining large language models with reinforcement learning for strategic reasoning.
